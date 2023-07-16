@@ -1,1 +1,2 @@
 # PlantWebshop
+This application serves as a tool for administering orders, products and users for a fictional webshop that sells plants. The project included modeling the generated data, designing an appropriate SQL database for storing the data, and providing a user interface through which data could be added/manipulated in the database (e.g. registering new orders, deleting or modifying orders, adding/removing users and products, displaying all relevant information regarding the orders/users/products, filtering orders/users/products, etc.)
